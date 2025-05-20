@@ -466,7 +466,7 @@ figlet.text("SOMNIA AUTO SWAP", { font: "Standard", horizontalLayout: "default" 
 const descriptionBox = blessed.box({
   left: "center",
   width: "100%",
-  content: "{center}{bold}{bright-magenta-fg}=== Telegram Channel 🚀 : NT Exhaust (@NTExhaust) ==={/bright-magenta-fg}{/bold}{/center}",
+  content: "{center}{bold}{bright-magenta-fg}=== KaRPaL ==={/bright-magenta-fg}{/bold}{/center}",
   tags: true,
   style: { fg: "white" }
 });
