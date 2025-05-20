@@ -4,7 +4,7 @@ screen -S somnia
 ```
 ```bash
 git clone https://github.com/Svz1404/somnia.git
-cd NTE-Somnia
+cd somnia
 ```
 ```bash
 npm install dotenv blessed figlet ethers fs
